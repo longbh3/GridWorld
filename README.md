@@ -1,3 +1,3 @@
 # GridWorld
 
-https://github.com/se-2020/se-2020.github.io
+https://github.com/se-2020/se-2020.github.io.git
